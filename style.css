@@ -1,0 +1,25 @@
+.main-body{
+    width: 400px;
+    height: 650px;
+    background-color: gray;
+    margin-left: 530px;
+
+}
+#screen{
+  width: 90%;
+  height: 55px;
+  margin-top: 20px;
+  margin-left: 18px;
+  pointer-events: none;
+  
+}
+.btn{
+    width: 70px;
+    height: 50px;
+    margin: 10px;
+}
+.row{
+    margin-top: 40px;
+    margin-left: 15px;
+    
+}
